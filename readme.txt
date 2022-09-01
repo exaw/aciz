@@ -9,7 +9,7 @@ helix.* - implementation of curves
 
 simple_svg_1.0.0.hpp - third party library (https://github.com/adishavit/simple-svg/)
 
-main.cpp - step by step code for main task document (CADEX C++ assignment v4 for probationers.pdf)
+main.cpp - step by step code for main task document (xxx C++ assignment v4 for probationers.pdf)
 draw_screen.cpp - creating and console rendering some sample curve
 draw_svg.cpp - creating and svg rendering some sample curve
 tbb_algo.cpp - tbb multithreaded implementation of radii sum
